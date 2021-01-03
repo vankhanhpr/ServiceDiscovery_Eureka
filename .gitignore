@@ -1,0 +1,10 @@
+.vs/
+AuthService/bin/
+AuthService/obj/
+GateWayTest/bin/
+GateWayTest/obj/
+
+ModelClassLibrary/bin/
+ModelClassLibrary/obj/
+ServiceA/bin/
+ServiceA/obj/
